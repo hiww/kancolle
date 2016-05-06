@@ -1,0 +1,2 @@
+# kancolle
+for event.
